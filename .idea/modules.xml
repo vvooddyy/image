@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../../../../../../../../woodystudio/OOP7/OOP7/.idea/OOP7.iml" filepath="$PROJECT_DIR$/../../../../../../../../woodystudio/OOP7/OOP7/.idea/OOP7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../../../woodystudio/OOP7/.idea/OOP7.iml" filepath="$PROJECT_DIR$/../../../../../../../../woodystudio/OOP7/.idea/OOP7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../../../woodystudio/git-oop7/.idea/git-oop7.iml" filepath="$PROJECT_DIR$/../../../../../../../../woodystudio/git-oop7/.idea/git-oop7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../../../woodystudio/medisharp-server-1-Dev/.idea/medisharp-server-1-Dev.iml" filepath="$PROJECT_DIR$/../../../../../../../../woodystudio/medisharp-server-1-Dev/.idea/medisharp-server-1-Dev.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />
     </modules>
   </component>
